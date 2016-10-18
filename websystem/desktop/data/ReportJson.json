@@ -1,0 +1,26 @@
+{
+	totalCount:20,
+	msg:'删除成功',
+	items:[
+				{filename:'3m Co',type:71.72,createTime:0.02,modifyTime:0.03},
+                {filename:'Alcoa Inc',type:29.01,createTime:0.42,modifyTime:1.47},
+                {filename:'American Express Company',type:52.55,createTime:0.01,modifyTime:0.02},
+                {filename:'American International Group, Inc.',type:64.13,createTime:0.31,modifyTime:0.49},
+                {filename:'AT&T Inc.',type:31.61,createTime:-0.48,modifyTime:-1.54},
+                {filename:'Caterpillar Inc.',type:67.27,createTime:0.92,modifyTime:1.39},
+                {filename:'Citigroup, Inc.',type:49.37,createTime:0.02,modifyTime:0.04},
+                {filename:'Exxon Mobil Corp',type:68.1,createTime:-0.43,modifyTime:-0.64},
+                {filename:'General Electric Company',type:34.14,createTime:-0.08,modifyTime:-0.23},
+                {filename:'General Motors Corporation',type:30.27,createTime:1.09,modifyTime:3.74},
+                {filename:'Hewlett-Packard Co.',type:36.53,createTime:-0.03,modifyTime:-0.08},
+                {filename:'Honeywell Intl Inc',type:38.77,createTime:0.05,modifyTime:0.13},
+                {filename:'Intel Corporation',type:19.88,createTime:0.31,modifyTime:1.58},
+                {filename:'Johnson & Johnson',type:64.72,createTime:0.06,modifyTime:0.09},
+                {filename:'Merck & Co., Inc.',type:40.96,createTime:0.41,modifyTime:1.01},
+                {filename:'Microsoft Corporation',type:25.84,createTime:0.14,modifyTime:0.54},
+                {filename:'The Coca-Cola Company',type:45.07,createTime:0.26,modifyTime:0.58},
+                {filename:'The Procter & Gamble Company',type:61.91,createTime:0.01,modifyTime:0.02},
+                {filename:'Wal-Mart Stores, Inc.',type:45.45,createTime:0.73,modifyTime:1.63},
+                {filename:'Walt Disney Company (The) (Holding Company)',type:29.89,createTime:0.24,modifyTime:0.81}
+	]
+}

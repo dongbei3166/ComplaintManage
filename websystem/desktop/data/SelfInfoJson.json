@@ -1,0 +1,7 @@
+{
+	totalCount:1,
+	msg:'查询成功',
+	items:[
+			{username:'3m Co',realname:'Raymend',sex:'male',phone:'10000',email:'10000@11.cc'}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	totalCount:6,
+	msg:'删除成功',
+	items:[
+				{groupName:'3m Co',status:71.72,description:0.02},
+                {groupName:'Alcoa Inc',status:29.01,description:0.42},
+                {groupName:'American Express Company',status:52.55,description:0.01},
+                {groupName:'American International Group, Inc.',status:64.13,description:0.31},
+                {groupName:'AT&T Inc.',status:31.61,description:-0.48},
+                {groupName:'Caterpillar Inc.',status:67.27,description:0.92}
+	]
+}

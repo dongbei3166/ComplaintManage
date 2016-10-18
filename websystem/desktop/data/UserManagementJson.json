@@ -1,0 +1,26 @@
+{
+	totalCount:20,
+	msg:'删除成功',
+	items:[
+				{username:'3m Co',realname:71.72,sex:'male',phone:0.02,email:0.03,group:'system',status:'1'},
+                {username:'Alcoa Inc',realname:29.01,sex:'male',phone:0.42,email:1.47,group:'system',status:'1'},
+                {username:'American Express Company',realname:52.55,sex:'male',phone:0.01,email:0.02,group:'system',status:'1'},
+                {username:'American International Group, Inc.',realname:64.13,sex:'male',phone:0.31,email:0.49,group:'system',status:'1'},
+                {username:'AT&T Inc.',realname:31.61,sex:'male',phone:-0.48,email:-1.54,group:'system',status:'1'},
+                {username:'Caterpillar Inc.',realname:67.27,sex:'male',phone:0.92,email:1.39,group:'user',status:'1'},
+                {username:'Citigroup, Inc.',realname:49.37,sex:'male',phone:0.02,email:0.04,group:'user',status:'1'},
+                {username:'Exxon Mobil Corp',realname:68.1,sex:'male',phone:-0.43,email:-0.64,group:'system',status:'1'},
+                {username:'General Electric Company',realname:34.14,sex:'male',phone:-0.08,email:-0.23,group:'system',status:'1'},
+                {username:'General Motors Corporation',realname:30.27,sex:'male',phone:1.09,email:3.74,group:'system',status:'1'},
+                {username:'Hewlett-Packard Co.',realname:36.53,sex:'male',phone:-0.03,email:-0.08,group:'user',status:'1'},
+                {username:'Honeywell Intl Inc',realname:38.77,sex:'male',phone:0.05,email:0.13,group:'system',status:'1'},
+                {username:'Intel Corporation',realname:19.88,sex:'male',phone:0.31,email:1.58,group:'system',status:'1'},
+                {username:'Johnson & Johnson',realname:64.72,sex:'male',phone:0.06,email:0.09,group:'system',status:'1'},
+                {username:'Merck & Co., Inc.',realname:40.96,sex:'male',phone:0.41,email:1.01,group:'system',status:'1'},
+                {username:'Microsoft Corporation',realname:25.84,sex:'male',phone:0.14,email:0.54,group:'system',status:'1'},
+                {username:'The Coca-Cola Company',realname:45.07,sex:'male',phone:0.26,email:0.58,group:'system',status:'1'},
+                {username:'The Procter & Gamble Company',realname:61.91,sex:'male',phone:0.01,email:0.02,group:'system',status:'1'},
+                {username:'Wal-Mart Stores, Inc.',realname:45.45,sex:'male',phone:0.73,email:1.63,group:'user',status:'1'},
+                {username:'Walt Disney Company (The) (Holding Company)',realname:29.89,sex:'male',phone:0.24,email:0.81,group:'user',status:'1'}
+	]
+}
